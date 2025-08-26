@@ -3,100 +3,100 @@
 
 ## 🔑 Identity & Governance
 
- # Credentials: Knowledge-based (passwords, PINs), Possession-based (tokens, smartcards), Inherence-based (biometrics)
+ Credentials: Knowledge-based (passwords, PINs), Possession-based (tokens, smartcards), Inherence-based (biometrics)
 
- # Identity Types: Centralized, Decentralized, Distributed (DID)
+ Identity Types: Centralized, Decentralized, Distributed (DID)
 
- # Digital ID Systems: Aadhaar, DigiYatra-like systems
+ Digital ID Systems: Aadhaar, DigiYatra-like systems
 
- #Claims & Attributes, Issuer, Holder, Verifier
+ Claims & Attributes, Issuer, Holder, Verifier
 
 
-🌐 Network-Layer Privacy
+ ## 🌐 Network-Layer Privacy
 
- # IPSec – Secure network packets
+  IPSec – Secure network packets
 
- # VPN – Encrypted tunnels
+  VPN – Encrypted tunnels
 
- # TOR – Onion routing
+  TOR – Onion routing
 
 
  ## 🔒 Cryptography Types
 
-# Symmetric (AES, 3DES)
+  Symmetric (AES, 3DES)
 
-# Asymmetric (RSA, ECC)
+  Asymmetric (RSA, ECC)
 
- # Key Exchange & Infrastructure
+  Key Exchange & Infrastructure
 
- # Diffie–Hellman (DH, ECDH)
+  Diffie–Hellman (DH, ECDH)
  
- # PAKE (Password Authenticated Key Exchange)
+  PAKE (Password Authenticated Key Exchange)
 
-# KEM (Key Encapsulation Mechanism)
+  KEM (Key Encapsulation Mechanism)
 
- # PKI & X.509 Certificates
+  PKI & X.509 Certificates
 
 
 
  ## ✅ Message Integrity & Functions
 
- # MAC, HMAC, PRF, KDF, OPRF
+  MAC, HMAC, PRF, KDF, OPRF
 
 
 ## 🔐 Encryption Approaches
 
- # Homomorphic Encryption (Partial, Somewhat, Fully)
+  Homomorphic Encryption (Partial, Somewhat, Fully)
 
- # Confidential Transactions (Stealth Addresses)
+  Confidential Transactions (Stealth Addresses)
 
- # Multi-Party Computation (MPC)
+  Multi-Party Computation (MPC)
 
- # Private Set Intersection (PSI)
+  Private Set Intersection (PSI)
 
 
  ## 🔄 Key Lifecycle & Governance
 
-# Key Generation, Distribution, Storage
+ Key Generation, Distribution, Storage
 
- # Rotation & Revocation
+  Rotation & Revocation
 
- # Hardware Security Modules (HSMs)
+  Hardware Security Modules (HSMs)
 
- # Crypto Suite & Agility
+  Crypto Suite & Agility
 
- # Standards: NIST, HM, HNDL
+  Standards: NIST, HM, HNDL
 
 
  ## 🕵 Anonymity & Privacy
 
- # Pseudonyms & Multiple Wallets
+  Pseudonyms & Multiple Wallets
 
- # Whistleblower Protection
+  Whistleblower Protection
 
- # Mixing Protocols: Mixers, CoinJoin, CoinShuffle, CoinSwap
+  Mixing Protocols: Mixers, CoinJoin, CoinShuffle, CoinSwap
  
 
  ## ✍ Signatures & Authentication
 
- # Digital, Group, Ring, Blind, Threshold Signatures
+  Digital, Group, Ring, Blind, Threshold Signatures
 
- # PGP (Pretty Good Privacy)
+  PGP (Pretty Good Privacy)
 
 
  ## 📜 Proofs & Zero-Knowledge
 
- # Interactive & Non-Interactive Proofs (NIZK, Schnorr, Fiat–Shamir)
+  Interactive & Non-Interactive Proofs (NIZK, Schnorr, Fiat–Shamir)
 
- # Zero-Knowledge Proofs: zk-SNARKs, zk-STARKs, Bulletproofs, zk-Rollups
+ Zero-Knowledge Proofs: zk-SNARKs, zk-STARKs, Bulletproofs, zk-Rollups
 
-# ZKCP – Zero-Knowledge Contingent Payments
+ZKCP – Zero-Knowledge Contingent Payments
 
 
  ## 💰 Privacy Coins & Payments
 
- # Monero – Ring CT, Stealth Transactions, Ring Size
+  Monero – Ring CT, Stealth Transactions, Ring Size
 
- # Zcash – zk-SNARKs, Shielded Transactions
+  Zcash – zk-SNARKs, Shielded Transactions
 
- # BOLT – Blind Off-chain Lightweight Transactions
+  BOLT – Blind Off-chain Lightweight Transactions
