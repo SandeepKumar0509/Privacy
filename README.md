@@ -9,7 +9,7 @@
 
  Digital ID Systems: Aadhaar, DigiYatra-like systems
 
- Claims & Attributes, Issuer, Holder, Verifier
+  Claims & Attributes, Issuer, Holder, Verifier
 
 
  ## 🌐 Network-Layer Privacy
